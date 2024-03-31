@@ -163,8 +163,6 @@ Class | Method | HTTP request | Description
  All endpoints do not require authorization.
 
 
-## Author
 
-mikha.dev@gmail.com
 
 
